@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "yandexmapsmobilesp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NikitaKochev/YandexMapsMobileSP",
+      "state" : {
+        "revision" : "e3f85dc9a10e55ffb1552960af8869e3f987edfe",
+        "version" : "4.4.0"
+      }
+    }
+  ],
+  "version" : 2
+}
